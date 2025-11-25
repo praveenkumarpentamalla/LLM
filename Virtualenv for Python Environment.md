@@ -1,4 +1,3 @@
-Of course! Here are clear, structured, and beginner-friendly notes based on the provided transcript.
 
 ---
 
