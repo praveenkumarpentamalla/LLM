@@ -1,4 +1,3 @@
-Of course! Here are clear, structured notes from the transcript, with a special explanation about using VS Code instead of JupyterLab.
 
 ---
 
